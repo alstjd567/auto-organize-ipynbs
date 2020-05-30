@@ -1,4 +1,5 @@
 ﻿*.html linguist-detectable=false
+*.htm linguist-detectable=false
 *.txt linguist-detectable=false
 *.ipynb linguist-detectable=false
 *.md linguist-detectable=false
